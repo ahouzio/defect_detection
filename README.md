@@ -19,7 +19,7 @@ This is a description of what each folder or file do :
 
 To clone the repository, run the following command in the terminal:  
 ```bash
-git clone https://gricad-gitlab.univ-grenoble-alpes.fr/data-challenge-group-2/data-challenge.git
+git clone https://github.com/ahouzio/defect_detection
 ```
 
 To install the required packages, run the following command in the terminal:  
@@ -28,9 +28,7 @@ pip3 install -r requirements.txt
 ```
 
 
-# Usage
-## Only classification
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+
 
 ## Classification with bounding box(less accurate)
 
