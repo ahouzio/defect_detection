@@ -1,5 +1,5 @@
 
-# Defect classification on wafermaps 
+# Defect detection on wafermaps 
 
 # Description
 This project aims to develop a machine learning model for classifying defects on wafermaps. The model will be trained on a dataset of wafermaps with labeled defects, and will be able to predict the type of defect on new wafermaps. The project will use convolutional neural networks (CNNs) for feature extraction and classification. This project is particularly useful for the semiconductor industry as it can help improve the efficiency and yield of wafer manufacturing.
